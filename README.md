@@ -40,7 +40,7 @@ Example: If a user has unlocked 5 achievements they must unlock an additional 3 
 
 ## Installation
 ```sh
-git clone
+git clone git@github.com:xsaroz/javra-test.git
 composer install
 php artisan migrate --seed
 ```
